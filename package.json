@@ -4,7 +4,7 @@
   "description": "Function to determine if a two floating points values differ ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/different_test.js"
   },
   "repository": {
     "type": "git",
